@@ -1,0 +1,6 @@
+[submodule "formaciong-git-sub"]
+	path = formaciong-git-sub
+	url = git@github.com:atSistemas-DevOps/formaciong-git-sub.git
+[submodule "libreria"]
+	path = libreria
+	url = git@github.com:atSistemas-DevOps/formaciong-git-sub.git
